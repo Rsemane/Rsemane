@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Rabih 👋
 
 - 🔭 I’m currently working on collecting certifications
 - 🌱 I’m currently learning Azure 

@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on Azure Hands-On
 - 💬 Ask me about Azure / On-Prem Windows 
 - 📫 How to reach me: linkedin.com/in/rabih-semaan
+- ⚡ Fun fact: 🧪 I use Azure Labs to test ideas before they become real-world chaos.
+  
 
 
 <!--
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Azure Hands-On
 - 💬 Ask me about Azure / On-Prem Windows 
 - 📫 How to reach me: linkedin.com/in/rabih-semaan
-- ⚡ Fun fact: 
+- ⚡ Fun fact: 🧪 I use Azure Labs to test ideas before they become real-world chaos.
 -->
